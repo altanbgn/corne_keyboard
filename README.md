@@ -5,7 +5,11 @@ I primarily use Colemak with DH Mod and other symbols is set there for my comfor
 Keyboard: Corne Cherry v3
 Switch: Gateron Red
 
+Layer 0
 <img width="800" height="300" align="center" src="https://github.com/altanbgn/corne_keyboard/blob/main/screenshots/layer0.png" />
+Layer 1
 <img width="800" height="300" align="center" src="https://github.com/altanbgn/corne_keyboard/blob/main/screenshots/layer1.png" />
+Layer 2
 <img width="800" height="300" align="center" src="https://github.com/altanbgn/corne_keyboard/blob/main/screenshots/layer2.png" />
+Layer 3
 <img width="800" height="300" align="center" src="https://github.com/altanbgn/corne_keyboard/blob/main/screenshots/layer3.png" />
