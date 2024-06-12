@@ -3,7 +3,8 @@
 I primarily use Colemak with DH Mod and other symbols is set there for my comfort. You can change it as you please
 
 Keyboard: Corne Cherry v3
-Switch: Gateron Red
+
+Switch: Gamakay Phoenix
 
 <h3>Layer 0</h3>
 <img width="800" height="300" align="center" src="https://github.com/altanbgn/corne_keyboard/blob/main/screenshots/layer0.png" />
